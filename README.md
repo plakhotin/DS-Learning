@@ -35,3 +35,11 @@
 * from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 * MAGIC FUNCTION of turning 2 classes to either 1 or 0:
 * data[‘class’] = data[‘class’].apply(lambda x: 1 if x==’<write here 1 of 2 class names>’ else 0)
+
+=====
+
+ML TECHNIQUES
+* Supervised, unsupervised, semisupervised, reinforcement learning
+1. Supervised - DATA IS LABELED - is typically a classification. Most important: KNN, SVM, Linear and Logistic regressions, Decision Trees and Random Forest.
+2. Unsupervised - DATA ISN'T LABELED - Most impoetant examples: K-Means, DBSCAN, Hierarchical Cluster Analysis, Anomaly/Novelty detection, Visualization and dimensionality reduction, Association rule learning.
+3. 

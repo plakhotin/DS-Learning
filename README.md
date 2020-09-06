@@ -36,4 +36,6 @@
 * MAGIC FUNCTION of turning 2 classes to either 1 or 0:
 * data[‘class’] = data[‘class’].apply(lambda x: 1 if x==’<write here 1 of 2 class names>’ else 0)
 
-=====
+======
+
+
